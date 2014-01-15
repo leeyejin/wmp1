@@ -1,9 +1,9 @@
 자기소개
 ------------------------------
-이름 :
+이름 : 송아영
 
-팀 :
+팀 : 개발팀
 
-Github ID :
+Github ID : youngah
 
-E-mail :
+E-mail : siy128@wemakeprice.com
